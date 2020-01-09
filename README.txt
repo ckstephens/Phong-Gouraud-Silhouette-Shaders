@@ -23,3 +23,5 @@ Controls for the program are as follows:
 'r' : reset all lights
 
 The project is built using CMake. Download all files into a project folder, say "project_dir", and designate that folder as the source directory. Then designate the build directory as "project_dir/build".
+
+The folder ExampleOutputs contains samples of what this program produces.
