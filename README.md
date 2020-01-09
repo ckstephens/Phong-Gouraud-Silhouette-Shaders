@@ -2,10 +2,16 @@ Assignment 4
 Caleb Stephens
 CSCE 441
 
-All functions have been implemented according to the rubric.
-Controls are the same as the rubric.
 
-Spot light feature has been added, with the following control additions:
+Controls for the program are as follows:
+'m' : choose next material
+'M' : choose previous material
+'l' : choose next light
+'L' : choose previous light
+'x' : move light right
+'X' : move light left
+
+
 's' : toggle spotlight
 'a' : increase angle of spotlight
 'A' : decrease angle of spotlight
