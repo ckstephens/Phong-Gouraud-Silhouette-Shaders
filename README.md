@@ -12,3 +12,5 @@ Spot light feature has been added, with the following control additions:
 't' : increase alpha of spotlight
 'T' : decrease alpha of spotlight
 'r' : reset all lights
+
+The project is built using CMake. Download all files into a project folder, say "project_dir", and designate that folder as the source directory. Then designate the build directory as "project_dir/build".
